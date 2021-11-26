@@ -2,6 +2,7 @@ package com.smm.mymemory.Utils
 
 import com.smm.mymemory.R
 
+const val EXTRA_BOARD_SIZE = ""
 val DEFAULT_ICONS = listOf(
     R.drawable.ic_face,
     R.drawable.ic_flash,
